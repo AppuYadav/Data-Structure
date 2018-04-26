@@ -1,7 +1,7 @@
 '''
 Created on 24-Apr-2018
 
-@author: Dignity
+@author: Appu
 '''
 def quicksort(arr):
     if len(arr) <= 1:
